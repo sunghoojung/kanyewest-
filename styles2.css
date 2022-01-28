@@ -1,0 +1,50 @@
+h1 {
+    color: lightseagreen;
+    text-align: center;
+    font-family: Arial;
+    font-size: 350%;
+}
+body {
+    background-color: rgb(60, 97, 199);
+}
+.center3 {
+    margin-left: auto;
+    margin-right: auto;
+}
+th {
+    color: rgb(81, 240, 8);
+    font-family: Verdana;
+}
+p {
+    text-align: center;
+    color: rgb(14, 230, 219);
+    font-family: Arial;
+}
+.inline-block {
+    display: inline-block;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 20%;
+    height: 10%;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+b {
+    color:rgb(247, 231, 16)
+}
+h2 {
+    color: lightseagreen;
+    text-align: center;
+    font-family: Arial;
+    font-size:200%;
+}
+dl {
+    color: rgb(247, 231, 16);
+    text-align: center;
+    font-family: Arial;
+}

@@ -1,0 +1,57 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: green;
+    text-align: center;
+    font-family:verdana;
+    font-size:400%;
+}
+p {
+    color: rgb(185, 22, 46);
+    text-align: center;
+    font-family: verdana;
+}
+i {
+    color: rgb(131, 1, 103);
+    font-family: verdana;
+}
+
+h2 {
+    color: yellow;
+    text-align: center;
+    font-family:verdana;
+    font-size:200%;
+}
+h3 {
+    color: purple;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 20%;
+    height: 10%;
+}
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 50%;
+}
+.center3 {
+    margin-left: auto;
+    margin-right: auto;
+}
+.center4 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+    height: 50%;
+}
+th {
+    font-family: Verdana;
+    color:rgb(1, 131, 1)
+}
